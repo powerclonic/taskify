@@ -1,0 +1,18 @@
+{
+    "name": "matheus/taskify",
+    "description": "Um site para você se organizar!",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Matheus\\Taskify\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matheus Dresch",
+            "email": "matheus_dresch@sicredi.com.br"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
